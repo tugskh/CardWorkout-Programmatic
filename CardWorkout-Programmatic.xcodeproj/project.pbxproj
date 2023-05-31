@@ -14,6 +14,7 @@
 		8069C1BF2A22559900E782C7 /* CardSelectionVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8069C1BE2A22559900E782C7 /* CardSelectionVC.swift */; };
 		8069C1C12A22571300E782C7 /* CWButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8069C1C02A22571300E782C7 /* CWButton.swift */; };
 		8069C1C32A23944D00E782C7 /* RulesVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8069C1C22A23944D00E782C7 /* RulesVC.swift */; };
+		8069C1C52A279CCA00E782C7 /* CardDeck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8069C1C42A279CCA00E782C7 /* CardDeck.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		8069C1BE2A22559900E782C7 /* CardSelectionVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardSelectionVC.swift; sourceTree = "<group>"; };
 		8069C1C02A22571300E782C7 /* CWButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CWButton.swift; sourceTree = "<group>"; };
 		8069C1C22A23944D00E782C7 /* RulesVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RulesVC.swift; sourceTree = "<group>"; };
+		8069C1C42A279CCA00E782C7 /* CardDeck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardDeck.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				8069C1BE2A22559900E782C7 /* CardSelectionVC.swift */,
 				8069C1C02A22571300E782C7 /* CWButton.swift */,
 				8069C1C22A23944D00E782C7 /* RulesVC.swift */,
+				8069C1C42A279CCA00E782C7 /* CardDeck.swift */,
 				8069C1B32A22514A00E782C7 /* Assets.xcassets */,
 				8069C1B52A22514A00E782C7 /* LaunchScreen.storyboard */,
 				8069C1B82A22514A00E782C7 /* Info.plist */,
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8069C1C52A279CCA00E782C7 /* CardDeck.swift in Sources */,
 				8069C1AB2A22514900E782C7 /* AppDelegate.swift in Sources */,
 				8069C1C32A23944D00E782C7 /* RulesVC.swift in Sources */,
 				8069C1AD2A22514900E782C7 /* SceneDelegate.swift in Sources */,
